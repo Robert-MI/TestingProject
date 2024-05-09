@@ -5,19 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da725a76-2f3b-4a62-9af2-187825f85b06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/AssertionMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constants/AssertionMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/LocatorConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constants/LocatorConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ChartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ChartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/SmartPhonePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/SmartPhonePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ChartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ChartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PriceSortingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PriceSortingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Robert-MI/TestingProject.git",
+    "accountId": "3e089d7f-d096-482f-a4c2-155e8c6f106d"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2g8cyYEr0HAWznAstNchj2iOdAC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,13 +52,118 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Docker.docker-compose.yml.chrome: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ChartTest.DeleteItem.executor": "Run",
+    "TestNG.ChartTest.MultipleAdditionFromProductPage.executor": "Run",
+    "TestNG.ChartTest.SingleAddition.executor": "Run",
+    "TestNG.ChartTest.SingleAdditionFromProductPage.executor": "Run",
+    "TestNG.ChartTest.decreaseProductCount.executor": "Run",
+    "TestNG.ChartTest.executor": "Run",
+    "TestNG.ChartTest.increaseProductCount.executor": "Run",
+    "TestNG.ChartTest.multipleAddition.executor": "Run",
+    "TestNG.ChartTest.test1.executor": "Run",
+    "TestNG.ChartTest.test2.executor": "Run",
+    "TestNG.ChartTest.testTVButton.executor": "Run",
+    "TestNG.ElectronicsPageTest.executor": "Run",
+    "TestNG.PriceSortingTest.executor": "Run",
+    "TestNG.PriceSortingTest.sortAscendingTest.executor": "Run",
+    "TestNG.SearchTest.executor": "Run",
+    "TestNG.SearchTest.searchExistent.executor": "Run",
+    "TestNG.SearchTest.searchNonExistentItem.executor": "Run",
+    "TestNG.SearchTest.sortAscendingTest.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/robert/Documents/year 4/Semester 2/testing/TestingProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SearchTest">
+    <configuration name="ChartTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChartTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChartTest.DeleteItem" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChartTest" />
+      <option name="METHOD_NAME" value="DeleteItem" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChartTest.increaseProductCount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChartTest" />
+      <option name="METHOD_NAME" value="increaseProductCount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceSortingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PriceSortingTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestingProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SearchTest" />
+        <item itemvalue="TestNG.PriceSortingTest" />
+        <item itemvalue="TestNG.ChartTest" />
+        <item itemvalue="TestNG.ChartTest.DeleteItem" />
+        <item itemvalue="TestNG.ChartTest.increaseProductCount" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,7 +180,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715082904382</updated>
-      <workItem from="1715082905510" duration="3000" />
+      <workItem from="1715082905510" duration="418000" />
+      <workItem from="1715083601624" duration="48886000" />
+      <workItem from="1715261485317" duration="11234000" />
+      <workItem from="1715273186617" duration="824000" />
     </task>
     <servers />
   </component>
